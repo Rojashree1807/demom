@@ -1,3 +1,4 @@
-functionWelcome(){
+functionWelcome()
+{
     alert("welcome you all!...");
 }
